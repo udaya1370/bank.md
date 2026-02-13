@@ -1,6 +1,8 @@
 You decided to walk through the front door.
 ---
-Simple, but too simple.
+For some reason, the door was open during closing time.
+
+Your entrance was simple, but too simple.
 
 Security takes you in because you look suspicous and your caught.
 
