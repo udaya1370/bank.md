@@ -1,9 +1,10 @@
 You decided to break into the bank using the window.
 ---
-Choose what tool you want to use
+Choose what tool you want to use to break it
 
-[Use a gun to shoot the window](shootwindow.md)
+Use a [gun](shootwindow.md) to shoot the window
 
-[Use a hammer to break the window open](hammerwindow.md)
+Use a [hammer](hammerwindow.md) to break the window open
+
 
 
