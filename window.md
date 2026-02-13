@@ -6,5 +6,8 @@ Use a [gun](shootwindow.md) to shoot the window
 
 Use a [hammer](hammerwindow.md) to break the window open
 
+Use a [spring loaded window breaker](slwb.md) to break the window open
+
+[Maybe I dont want to use the window...](README.md)
 
 
