@@ -1,3 +1,4 @@
 You decided to break into the bank using the window.
 ---
-Choose what tool 
+Choose what tool you want to use
+[Shoot the window]
