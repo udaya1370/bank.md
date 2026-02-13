@@ -1,7 +1,7 @@
 # bank.md
 You are robbing a bank, choose how you want to break in.
 
-[Wh]
+[Why would I want to rob a bank](notrobbing)
 
 Click here to choose the [Window](window.md)
 
