@@ -10,4 +10,6 @@ Use a [spring loaded window breaker](slwb.md) to break the window open
 
 [Maybe I dont want to use the window...](README.md)
 
+I want to [leave!](gohome.md)
+
 
